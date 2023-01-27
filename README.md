@@ -1,1 +1,1 @@
-![Alt text](relative/path/to/image.PNG?raw=true "Title")
+ <img align="center" alt="declan" width="1000" src="image.PNG">
